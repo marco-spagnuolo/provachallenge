@@ -16,6 +16,9 @@ go run main.go
 
 go test 
 
+![Schermata 2023-02-10 alle 04 02 36](https://user-images.githubusercontent.com/81595718/217993317-bbaa1a5b-3be2-407e-b052-f9a24f92555e.png)
+
+
 # Deployment 
 
 ## build image from Dockerfile 
@@ -46,6 +49,9 @@ go run main.go
 # unit test
 
 go to the test
+
+![Schermata 2023-02-10 alle 04 02 36](https://user-images.githubusercontent.com/81595718/217993317-bbaa1a5b-3be2-407e-b052-f9a24f92555e.png)
+
 
 # Distribution
 
