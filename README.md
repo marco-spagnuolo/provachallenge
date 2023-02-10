@@ -8,7 +8,7 @@ nell'esempio si usa:
 
 go run main.go 
 
-Se non si ha golang installato :
+## Se non si ha golang installato :
 
 ./provachallenge
 
@@ -39,7 +39,7 @@ in the example we use:
 
 go run main.go
 
-If you don't have golang installed (assumed we are using linux)
+## If you don't have golang installed (assumed we are using linux)
 
 ./trychallenge
 
