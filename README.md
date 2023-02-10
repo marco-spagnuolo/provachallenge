@@ -1,4 +1,4 @@
-# BUILD
+# BUILD (ITA) 
 
 nell'esempio si usa:
   golang ver 16.3 
@@ -28,8 +28,8 @@ docker run challengedocker:alpha
 
 
 
-ENG VERSION
-# BUILD
+# BUILD (ENG VERSION)
+
 
 in the example we use:
     Golang version 16.3
