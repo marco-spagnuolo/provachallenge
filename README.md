@@ -44,7 +44,7 @@ go run main.go
 
 ## If you don't have golang installed (assumed we are using linux)
 
-./trychallenge
+./provachallenge
 
 # unit test
 
